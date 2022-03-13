@@ -74,7 +74,7 @@ const Path = styled.p`
 `;
 const ActualPath = styled.span`
     color:black;
-    font-weight:bold;
+    font-weight:600;
 `;
 const Paye = styled.div` 
     margin:90px 0 0 30px;
